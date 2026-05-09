@@ -34,7 +34,7 @@ export default function Footer({ logo, data }) {
                 <img
                   style={{ width: "15px", height: "15px" }}
                   className="mr-1"
-                  src="images/iphone.png"
+                  src="https://kinhdogroup.com.vn/uploads/phone_solid_full_1_ed0e51798d.svg?updated_at=2026-05-09T14:29:53.512Z"
                   alt=""
                 />
                 {data?.contact

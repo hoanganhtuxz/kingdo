@@ -105,7 +105,7 @@ export default function LinhvucPt({ dev_fields }) {
             <a href="linhvucphattrien">
               <div className="blog-post-txt  box-pt-new  text-center cusotm-h5">
                 <p className>
-                  <img className="img-30 " src="images/Icon-12.png" alt="" />
+                  <img className="img-30 " src="images/1.png" alt="" />
                 </p>
                 <p
                   className="post-meta text-center mt-1 color-orgen-800"
@@ -120,7 +120,7 @@ export default function LinhvucPt({ dev_fields }) {
             <a href="quanlivanhangtoanha">
               <div className="blog-post-txt box-pt-new text-center cusotm-h5">
                 <p className="text-center">
-                  <img className="img-30" src="images/Icon-09.png" alt="" />
+                  <img className="img-30" src="images/2.png" alt="" />
                 </p>
                 <div className="mt-1 mb-4">
                   <p
@@ -137,7 +137,7 @@ export default function LinhvucPt({ dev_fields }) {
             <a href="khaithachkinhdoanhthuongmai">
               <div className="blog-post-txt  box-pt-new  text-center cusotm-h5">
                 <p className="text-center">
-                  <img className="img-30 " src="images/Icon-10.png" alt="" />
+                  <img className="img-30 " src="images/3.png" alt="" />
                 </p>
                 <div className="mt-1 mb-4">
                   <p
