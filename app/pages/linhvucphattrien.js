@@ -66,7 +66,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-01.png"
+                              src="./images/new1.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -82,7 +82,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-04.png"
+                              src="./images/new2.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -99,7 +99,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-03.png"
+                              src="./images/new3.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -115,7 +115,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-02.png"
+                              src="./images/new4.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -224,7 +224,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-01.png"
+                              src="./images/new1.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -240,7 +240,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-04.png"
+                              src="./images/new2.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -256,7 +256,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-03.png"
+                              src="./images/new3.png"
                               alt=""
                             />
                             <span className="font-15px">
@@ -272,7 +272,7 @@ export default function PhatTrien() {
                               className="mr-4"
                               width={20}
                               height={20}
-                              src="./images/Icon-02.png"
+                              src="./images/new4.png"
                               alt=""
                             />
                             <span className="font-15px">
